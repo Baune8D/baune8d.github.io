@@ -1,0 +1,19 @@
+# Project template
+- layout: top-middle
+  name: AspNetWebpack
+  link: https://github.com/Baune8D/AspNetWebpack
+  github: Baune8D/AspNetWebpack
+  quote: >
+    Template and tools for using Webpack with any type of ASP.NET Core project.
+- layout: top-middle
+  name: LinqBuilder
+  link: https://github.com/Baune8D/LinqBuilder
+  github: Baune8D/LinqBuilder
+  quote: >
+    LinqBuilder is an advanced implementation of the specification pattern specifically targeting LINQ query generation.
+- layout: top-middle
+  name: ExpressionCache
+  link: https://github.com/Baune8D/ExpressionCache
+  github: Baune8D/ExpressionCache
+  quote: >
+    Easily manage cache keys through expressions.
