@@ -68,10 +68,11 @@ education_title: Uddannelse
 # More Section
 more_title: Mere om mig
 more_content: | # this will include new lines to allow paragraphs
-  Udover tid med familien, består det meste af min fritid også af at rode med IT i forskellige afskygninger.
-  Jeg er en passioneret gamer og har hele mit liv bygget mine egne computere, jeg elsker hardware og at presse det til det yderste, derfor er er jeg også en stor overclocking entusiast.
-  Jeg hoster selv en dual Xeon unRAID server som driver alle mine personlige services som fx. NAS, DNS server, web hosting, medie center samt diverse spil servere.
-  Derudover har jeg en 3D printer hvor jeg bruger det meste af tiden på at printe dele til at modificere samme printer.
+  Udover tid med familien, går det meste af min fritid også med at rode med IT eller elektronik i forskellige afskygninger.
+  Jeg er en passioneret gamer og har hele mit liv bygget mine egne computere, jeg elsker hardware og at presse det til det yderste, derfor er jeg også en stor overclocking entusiast.
+  Jeg hoster selv en dual Xeon unRAID server derhjemme som jeg bruger som homelab. Serveren fungerer som NAS, og driver alle mine personlige services som fx. DNS, web hosting, mediecenter, diverse spil servere samt diverse virtuelle maskiner.
+  Jeg har en ret omfattende netværks infrastruktur i min lejlighed bestående af en masse Ubiquiti Unifi netværksudstyr, og bruger en masse tid på at optimere og teste diverse løsninger.
+  Derudover har jeg en Ender-3 Pro 3D printer som jeg hygger mig med at modificere, bl.a. ved at 3D printe nye dele til printeren.
 
 # Footer
 references_title: Referencer på anmodning
