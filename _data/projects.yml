@@ -6,7 +6,7 @@
   quote: >
     Template and tools for using Webpack with any type of ASP.NET Core project.
   description: | # this will include new lines to allow paragraphs
-    Dette projektet viser en template for at integrere Webpack, ESLint, StyleLint og Prettier, med et ASP.NET Core projekt. Projektet inkluderer værktøjer som gør det så nemt som muligt at bundle frontend kode sammen, og bruge det i både MVC views og Razor pages.
+    Dette projektet viser en template for at integrere Webpack, ESLint, StyleLint og Prettier, med et ASP.NET Core projekt. Projektet inkluderer værktøjer som gør det så nemt som muligt at bundle frontend kode sammen, og bruge det i både MVC views og Razor pages. Derudover kan konfigurationerne nemt udvides, hvilket giver mulighed for integration af fx. TypeScript eller et SPA framework.
 - layout: top-middle
   name: LinqBuilder
   link: https://github.com/Baune8D/LinqBuilder

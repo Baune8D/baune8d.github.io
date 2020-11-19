@@ -7,7 +7,7 @@
   quote: >
     Find kapital, lån eller en investor til dit firma eller projekt
   description: | # this will include new lines to allow paragraphs
-    Saxis overtog dette projekt i et meget tidligt stadie, første version blev udgivet i 2020.
+    Saxis overtog kodebasen i et meget tidligt stadie. Første version blev udgivet i 2020.
 
     Jeg har arbejdet med de følgende teknologier under dette projekt:  
     <mark>PHP</mark> <mark>Laravel</mark> <mark>JavaScript</mark> <mark>Vue.js</mark> <mark>SASS</mark> <mark>Git</mark> <mark>MySQL</mark> <mark>Ubuntu Server</mark> <mark>Apache</mark> <mark>Envoyer.io</mark> <mark>Wordpress</mark> <mark>VMware</mark>
@@ -19,9 +19,9 @@
   quote: >
     Stedet hvor sælgere og købere af små og mellemstore virksomheder mødes
   description: | # this will include new lines to allow paragraphs
-    Dette projekt var originalt en underside til Amino, kaldet "Amino Virksomhedsbørs" og skrevet i ASP.NET MVC. Projektet blev separeret ud i set eget projekt i 2016, og skiftede domæne til www.saxis.dk. Idag er der intet tilbage af den originale kodebase, jeg har igennem årene omskrevet hele sitet til en moderne kodebase skrevet primært i ASP.NET Core, og med vægt på SOLID principperne. Udover programmerings arbejde har jeg også været ansvarlig for opsætning og vedligeholdelse af både Windows og Linux servere, samt opsætning af en CI/CD pipeline drevet af AppVeyor og GitHub Actions.
+    Dette projekt var originalt en underside til Amino, kaldet "Amino Virksomhedsbørs" og skrevet i ASP.NET MVC, projektet blev originalt startet i 2007 af bl.a. Martin Thorborg. I 2016 købte jeg og 2 andre 50% af Amino Virksomhedbørs og startede Saxis, projektet blev sepereret fra Amino og flyttet til sit eget domæne: [www.saxis.dk](www.saxis.dk). Idag er der intet tilbage af den originale kodebase, jeg har igennem årene omskrevet hele sitet til en moderne kodebase skrevet primært i ASP.NET Core, og med vægt på SOLID principperne. Udover programmerings arbejde har jeg også været ansvarlig for opsætning og vedligeholdelse af både Windows og Linux servere, samt opsætning af en CI/CD pipeline drevet af AppVeyor og GitHub Actions. Virksomheden vandt en Børsen Gazelle i 2020.
     
-    Jeg er fortsat medejer og tilknyttet Saxis som jeg har brugt de sidste mange år på at bygge, men søger noget mere stabilitet grundet familien. Virksomheden vandt en Børsen Gazelle i 2020.
+    Jeg er fortsat medejer og tilknyttet Saxis som jeg har brugt de sidste mange år på at bygge, men søger noget mere stabilitet grundet familien.
 
     Jeg har arbejdet med de følgende teknologier under dette projekt:  
     <mark>C#</mark> <mark>ASP.NET MVC</mark> <mark>ASP.NET Core MVC</mark> <mark>Razor Pages</mark> <mark>JavaScript</mark> <mark>TypeScript</mark> <mark>Webpack</mark> <mark>Vue.js</mark> <mark>SASS</mark> <mark>Git</mark> <mark>MSSQL</mark> <mark>MySQL</mark>  
@@ -50,7 +50,7 @@
   quote: >
     Mødestedet for mere end 100.000 iværksættere og selvstændige erhvervsdrivende.
   description: | # this will include new lines to allow paragraphs
-    Som den primære udvikler lavede jeg det meste af programmeringsarbejdet mens jeg var tilknyttet siden. Udover programmering har jeg bl.a. stået for migrering af kodebasen fra SVN til GIT, samt migrering af bare-metal servere til ESXi virtualiserede servere. Jeg har også moderniseret arbejdsgangen ved opsætning af en fuld CI/CD pipeline bestående af TeamCity og Octopus Deploy.
+    Som den primære udvikler lavede jeg det meste af programmeringsarbejdet. Udover programmering har jeg bl.a. stået for migrering af kodebasen fra SVN til GIT, samt migrering af bare-metal servere til ESXi virtualiserede servere. Jeg har også moderniseret arbejdsgangen ved opsætning af en fuld CI/CD pipeline bestående af TeamCity og Octopus Deploy.
 
     Jeg har arbejdet med de følgende teknologier under dette projekt:  
     <mark>C#</mark> <mark>ASP.NET MVC</mark> <mark>ASP.NET Web Forms</mark> <mark>JavaScript</mark> <mark>CSS</mark> <mark>SVN</mark> <mark>Git</mark> <mark>MSSQL</mark> <mark>MySQL</mark> <mark>Windows Server</mark> <mark>Ubuntu Server</mark> <mark>IIS</mark> <mark>Apache</mark> <mark>TeamCity</mark> <mark>Octopus Deploy</mark> <mark>Wordpress</mark> <mark>VMware</mark>
