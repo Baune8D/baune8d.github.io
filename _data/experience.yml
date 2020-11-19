@@ -7,10 +7,10 @@
   quote: >
     Find kapital, lån eller en investor til dit firma eller projekt
   description: | # this will include new lines to allow paragraphs
-    Saxis overtog dette projekt i et meget tidligt stadie og udgav den første version i 2020.
+    Saxis overtog dette projekt i et meget tidligt stadie, første version blev udgivet i 2020.
 
     Jeg har arbejdet med de følgende teknologier under dette projekt:  
-    <mark>PHP</mark> <mark>Laravel</mark> <mark>JavaScript</mark> <mark>Vue.js</mark> <mark>SASS</mark> <mark>MySQL</mark> <mark>Ubuntu Server</mark> <mark>Apache</mark> <mark>Envoyer.io</mark> <mark>Wordpress</mark> <mark>VMware</mark>
+    <mark>PHP</mark> <mark>Laravel</mark> <mark>JavaScript</mark> <mark>Vue.js</mark> <mark>SASS</mark> <mark>Git</mark> <mark>MySQL</mark> <mark>Ubuntu Server</mark> <mark>Apache</mark> <mark>Envoyer.io</mark> <mark>Wordpress</mark> <mark>VMware</mark>
 - layout: left
   company: Saxis ApS
   link: https://www.saxis.dk
@@ -19,11 +19,16 @@
   quote: >
     Stedet hvor sælgere og købere af små og mellemstore virksomheder mødes
   description: | # this will include new lines to allow paragraphs
-    Dette projekt var originalt en underside til Amino kaldet "Amino Virksomhedsbørs" og skrevet i ASP.NET MVC. Projektet blev separeret ud i set eget projekt i 2016 og skiftede domæne til www.saxis.dk. Virksomheden vandt en Børsen Gazelle i 2020.
+    Dette projekt var originalt en underside til Amino, kaldet "Amino Virksomhedsbørs" og skrevet i ASP.NET MVC. Projektet blev separeret ud i set eget projekt i 2016, og skiftede domæne til www.saxis.dk. Virksomheden vandt en Børsen Gazelle i 2020.
 
     Jeg har arbejdet med de følgende teknologier under dette projekt:  
-    <mark>C#</mark> <mark>ASP.NET MVC</mark> <mark>ASP.NET Core MVC</mark> <mark>Razor Pages</mark> <mark>JavaScript</mark> <mark>TypeScript</mark> <mark>Webpack</mark> <mark>Vue.js</mark> <mark>SASS</mark> <mark>MSSQL</mark> <mark>MySQL</mark>  
-    <mark>Windows Server</mark> <mark>Ubuntu Server</mark> <mark>IIS</mark> <mark>Apache</mark> <mark>AppVeyor</mark> <mark>GitHub Actions</mark> <mark>Wordpress</mark> <mark>VMware</mark>
+    <mark>C#</mark> <mark>ASP.NET MVC</mark> <mark>ASP.NET Core MVC</mark> <mark>Razor Pages</mark> <mark>JavaScript</mark> <mark>TypeScript</mark> <mark>Webpack</mark> <mark>Vue.js</mark> <mark>SASS</mark> <mark>Git</mark> <mark>MSSQL</mark> <mark>MySQL</mark>  
+    <mark>PowerShell</mark> <mark>Redis</mark> <mark>Windows Server</mark> <mark>Ubuntu Server</mark> <mark>IIS</mark> <mark>Apache</mark> <mark>AppVeyor</mark> <mark>GitHub Actions</mark> <mark>Wordpress</mark> <mark>VMware</mark>
+    
+    Eksempler på større opgaver jeg har været ansvarlig for:
+    - Optsætning og vedligeholdelse af Windows og Linux servere.
+    - Migrering fra ASP.NET til ASP.NET Core
+    - Setup af fuld CI/CD pipeline bestående af AppVeyor og GitHub Actions.
 - layout: left
   company: Min-Mave ApS
   link: https://www.min-mave.dk
@@ -32,16 +37,16 @@
   quote: >
     Danmarks største site for gravide og småbørnsforældre
   description: | # this will include new lines to allow paragraphs
-    Amino var tæt knyttet med Min-Mave og de manglede en software udvikler, så jeg blev også tilknyttet dette projekt.
+    Som den primære udvikler, har jeg lavet alt fra vedligeholdelse af servere og infrastruktur til software udvikling.
 
     Jeg har arbejdet med de følgende teknologier under dette projekt:  
-    <mark>C#</mark> <mark>ASP.NET MVC</mark> <mark>JavaScript</mark> <mark>CSS</mark> <mark>MSSQL</mark> <mark>MySQL</mark> <mark>Windows Server</mark> <mark>Ubuntu Server</mark> <mark>IIS</mark> <mark>Apache</mark> <mark>TeamCity</mark>  
+    <mark>C#</mark> <mark>ASP.NET MVC</mark> <mark>JavaScript</mark> <mark>CSS</mark> <mark>Mercurial</mark> <mark>Git</mark> <mark>MSSQL</mark> <mark>MySQL</mark> <mark>Windows Server</mark> <mark>Ubuntu Server</mark> <mark>IIS</mark> <mark>Apache</mark> <mark>TeamCity</mark>  
     <mark>Octopus Deploy</mark> <mark>Wordpress</mark> <mark>VMware</mark>
 
-    Udover programmering har jeg været ansvarlig for de følgende større opgaver:
+    Eksempler på større opgaver jeg har været ansvarlig for:
     - Migrering af kode fra Mercurial til GIT.
     - Server migrering fra bare-metal servere til ESXi virtualiserede servere.
-    - Setup af fuld CI og deployment pipeline bestående af TeamCity og Octopus Deploy.
+    - Setup af fuld CI/CD pipeline bestående af TeamCity og Octopus Deploy.
 - layout: left
   company: Amino ApS
   link: https://www.amino.dk
@@ -50,15 +55,15 @@
   quote: >
     Mødestedet for mere end 100.000 iværksættere og selvstændige erhvervsdrivende.
   description: | # this will include new lines to allow paragraphs
-    Mit første rigtige udvikler job. 1,5 måned efter jeg startede stoppede den eneste anden udvikler og jeg overtog alt det tekniske ansvar. Jeg har lavet alt fra vedligeholdelse af servere og infrastruktur til software udvikling.
+    Som den primære udvikler, har jeg lavet alt fra vedligeholdelse af servere og infrastruktur til software udvikling.
 
     Jeg har arbejdet med de følgende teknologier under dette projekt:  
-    <mark>C#</mark> <mark>ASP.NET MVC</mark> <mark>ASP.NET Web Forms</mark> <mark>JavaScript</mark> <mark>CSS</mark> <mark>MSSQL</mark> <mark>MySQL</mark> <mark>Windows Server</mark> <mark>Ubuntu Server</mark> <mark>IIS</mark> <mark>Apache</mark> <mark>TeamCity</mark> <mark>Octopus Deploy</mark> <mark>Wordpress</mark> <mark>VMware</mark>
+    <mark>C#</mark> <mark>ASP.NET MVC</mark> <mark>ASP.NET Web Forms</mark> <mark>JavaScript</mark> <mark>CSS</mark> <mark>SVN</mark> <mark>Git</mark> <mark>MSSQL</mark> <mark>MySQL</mark> <mark>Windows Server</mark> <mark>Ubuntu Server</mark> <mark>IIS</mark> <mark>Apache</mark> <mark>TeamCity</mark> <mark>Octopus Deploy</mark> <mark>Wordpress</mark> <mark>VMware</mark>
 
-    Udover programmering har jeg været ansvarlig for de følgende større opgaver:
+    Eksempler på større opgaver jeg har været ansvarlig for:
     - Migrering af kode fra SVN til GIT.
     - Server migrering fra bare-metal servere til ESXi virtualiserede servere.
-    - Setup af fuld CI og deployment pipeline bestående af TeamCity og Octopus Deploy.
+    - Setup af fuld CI/CD pipeline bestående af TeamCity og Octopus Deploy.
 - layout: left
   company: Hi-Fi Klubben A/S
   link: https://www.hifiklubben.dk
@@ -67,7 +72,7 @@
   quote: >
     I HiFi Klubben handler alting om lyd og billede – ikke køleskabe, vaskemaskiner og stavblendere. Hos os får du musik- og filmoplevelser for hver eneste krone
   description: | # this will include new lines to allow paragraphs
-    Dette job begyndte som et deltids job under mit studie som Datamatiker, men min store passion for elektronik har holdt mig tilknyttet til Hi-Fi Klubben lige siden. Efter jeg færdiggjorde min uddannelsen arbejdede jeg stadig hver weekend i butikken samtidig med et fuldtidsjob som software udvikler. Over årene har jeg skåret ned på tid, men jeg er stadig tilknyttet butikken et par dage om måneden.
+    Jeg startede i dette job under mit studie som Datamatiker, men min store passion for elektronik har holdt mig tilknyttet til Hi-Fi Klubben lige siden. Efter jeg færdiggjorde min uddannelsen arbejdede jeg stadig hver weekend i butikken samtidig med et fuldtidsjob som software udvikler. Over årene har jeg skåret ned på tid, men jeg er stadig tilknyttet butikken et par dage om måneden.
 - layout: left
   company: Callas ApS
   link: https://www.callas.dk

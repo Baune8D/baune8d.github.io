@@ -46,7 +46,15 @@ additional_links:
 about_title: Om mig
 about_profile_image: images/Morten.png
 about_content: | # this will include new lines to allow paragraphs
-  Mit navn er Morten Larsen og jeg er full stack web udvikler.
+  Mit navn er Morten Larsen, og jeg er full stack web udvikler . Jeg bor på Frederiksberg med min kone, datter og hund. Jeg startede med at programmere da jeg var 14 år gammel, med små konsol programmer skrevet i C++. Jeg har hele mit liv været interresert i IT og elektronik, og har idag gjort programmering til min levevej.
+
+  Jeg elsker at lave god kode, og ligger altid mange tanker i designet. Min primære interrese er backend udvikling og jeg er specielt glad for Domain Driven Design. Da jeg er en person der elsker at rode indenfor alle områder af IT kan jeg arbejde med det meste, jeg har i min karrierre bl.a. også stået for opsætning og vedligholdelse af både Windows og Linux servere.
+
+  Jeg beskæftiger mig primært med de følgende teknologier:  
+  <mark>C#</mark> <mark>.NET</mark> <mark>PHP</mark> <mark>JavaScript</mark> <mark>TypeScript</mark> <mark>CSS/SASS</mark> <mark>HTML</mark>
+
+  Derudover har jeg også erfaring med de følgende teknologier:  
+  <mark>Bash</mark> <mark>PowerShell</mark> <mark>Java</mark> <mark>C++</mark> <mark>C</mark>
 
 # Projects Section
 projects_title: Projekter
@@ -60,9 +68,10 @@ education_title: Uddannelse
 # More Section
 more_title: Mere om mig
 more_content: | # this will include new lines to allow paragraphs
-  This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
-
-  Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+  Udover tid med familien består det meste af min fritid også af IT i forskellige afskygninger.
+  Jeg er en passioneret gamer og har hele mit liv bygget mine egne computere, jeg elsker hardware og at presse det til det yderste, derfor er er jeg også en stor overclocking entusiast.
+  Jeg hoster selv en unRAID server som driver alle mine personligt services som fx. NAS, DNS server, web hosting, media center, diverse spil servere osv.
+  En anden passion jeg har kastet mig over fornylig er 3D print, jeg bruger det meste af min tid på at printe dele til at modificere printeren.
 
 # Footer
 references_title: Referencer på anmodning
