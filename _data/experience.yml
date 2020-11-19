@@ -25,7 +25,7 @@
 
     Jeg har arbejdet med de følgende teknologier under dette projekt:  
     <mark>C#</mark> <mark>ASP.NET MVC</mark> <mark>ASP.NET Core MVC</mark> <mark>Razor Pages</mark> <mark>JavaScript</mark> <mark>TypeScript</mark> <mark>Webpack</mark> <mark>Vue.js</mark> <mark>SASS</mark> <mark>Git</mark> <mark>MSSQL</mark> <mark>MySQL</mark>  
-    <mark>PowerShell</mark> <mark>Redis</mark> <mark>Windows Server</mark> <mark>Ubuntu Server</mark> <mark>IIS</mark> <mark>Apache</mark> <mark>AppVeyor</mark> <mark>GitHub Actions</mark> <mark>Wordpress</mark> <mark>VMware</mark>
+    <mark>PowerShell</mark> <mark>Redis</mark> <mark>Windows Server</mark> <mark>Ubuntu Server</mark> <mark>IIS</mark> <mark>Apache</mark> <mark>AppVeyor</mark> <mark>GitHub Actions</mark> <mark>Wordpress</mark> <mark>VMware</mark> <mark>Docker</mark>
     
     Nævneværdige .NET pakker der er blevet brugt i dette projekt:  
     <mark>Entity Framework Core</mark> <mark>Dapper</mark> <mark>AutoMapper</mark> <mark>MediatR</mark> <mark>Hangfire</mark> <mark>Autofac</mark> <mark>CacheManager</mark>
