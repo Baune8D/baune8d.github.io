@@ -6,24 +6,10 @@
   description: | # this will include new lines to allow paragraphs
     Uddannelsen bestod primært af Java og PHP programmering, inklusiv diverse software udviklings metoder som fx. Scrum. Mit eksamens projekt var et custom PHP MVC framework plus en mindre applikation bygget ovenpå.
 
-    Flere af mine skole projekter fra dengang kan findes på min GitHub profil.
+    Flere af mine skole projekter fra dengang, kan findes på min GitHub profil (link i toppen af siden).
 - layout: left
   name: Københavns VUC
   dates: 2010 - 2010
   qualification: Matematik C/B og Engelsk C/B
   description: | # this will include new lines to allow paragraphs
     Jeg tog Matematik på C og B niveau som turbo hold der hver varede 8 uger. Engelsk C tog jeg som fjernstudie og B niveau tog jeg samtidig med matematik holdene.
-- layout: left
-  name: A.K.S. Gruppen
-  dates: 2006 - 2010
-  qualification: Smed (Rustfast)
-  description: | # this will include new lines to allow paragraphs
-    I forbindelse med denne uddannelse, har jeg primært beskæftiget mig med svejsning, cnc programmering og udarbejdelse af 3D tegninger.
-    
-    Jeg landede i dette praktikforløb ret tilfældigt. Jeg gjorde uddannelsen færdig, men stoppede med det samme da jeg var udlært for at forfølge min livslange passion for IT.
-- layout: left
-  name: Tømmerup Fri- og Efterskole
-  dates: 2004 - 2005
-  qualification: 10. klasse
-  description: | # this will include new lines to allow paragraphs
-    10\. klasse på efterskole som afslutning på folkeskolen.

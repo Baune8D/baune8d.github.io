@@ -19,16 +19,16 @@
   quote: >
     Stedet hvor sælgere og købere af små og mellemstore virksomheder mødes
   description: | # this will include new lines to allow paragraphs
-    Dette projekt var originalt en underside til Amino, kaldet "Amino Virksomhedsbørs" og skrevet i ASP.NET MVC. Projektet blev separeret ud i set eget projekt i 2016, og skiftede domæne til www.saxis.dk. Virksomheden vandt en Børsen Gazelle i 2020.
+    Dette projekt var originalt en underside til Amino, kaldet "Amino Virksomhedsbørs" og skrevet i ASP.NET MVC. Projektet blev separeret ud i set eget projekt i 2016, og skiftede domæne til www.saxis.dk. Idag er der intet tilbage af den originale kodebase, jeg har igennem årene omskrevet hele sitet til en moderne kodebase skrevet primært i ASP.NET Core, og med vægt på SOLID principperne. Udover programmerings arbejde har jeg også været ansvarlig for opsætning og vedligeholdelse af både Windows og Linux servere, samt opsætning af en CI/CD pipeline drevet af AppVeyor og GitHub Actions.
+    
+    Jeg er fortsat medejer og tilknyttet Saxis som jeg har brugt de sidste mange år på at bygge, men søger noget mere stabilitet grundet familien. Virksomheden vandt en Børsen Gazelle i 2020.
 
     Jeg har arbejdet med de følgende teknologier under dette projekt:  
     <mark>C#</mark> <mark>ASP.NET MVC</mark> <mark>ASP.NET Core MVC</mark> <mark>Razor Pages</mark> <mark>JavaScript</mark> <mark>TypeScript</mark> <mark>Webpack</mark> <mark>Vue.js</mark> <mark>SASS</mark> <mark>Git</mark> <mark>MSSQL</mark> <mark>MySQL</mark>  
     <mark>PowerShell</mark> <mark>Redis</mark> <mark>Windows Server</mark> <mark>Ubuntu Server</mark> <mark>IIS</mark> <mark>Apache</mark> <mark>AppVeyor</mark> <mark>GitHub Actions</mark> <mark>Wordpress</mark> <mark>VMware</mark>
     
-    Eksempler på større opgaver jeg har været ansvarlig for:
-    - Optsætning og vedligeholdelse af Windows og Linux servere.
-    - Migrering fra ASP.NET til ASP.NET Core
-    - Setup af fuld CI/CD pipeline bestående af AppVeyor og GitHub Actions.
+    Nævneværdige .NET pakker der er blevet brugt i dette projekt:  
+    <mark>Entity Framework Core</mark> <mark>Dapper</mark> <mark>AutoMapper</mark> <mark>MediatR</mark> <mark>Hangfire</mark> <mark>Autofac</mark> <mark>CacheManager</mark>
 - layout: left
   company: Min-Mave ApS
   link: https://www.min-mave.dk
@@ -37,16 +37,11 @@
   quote: >
     Danmarks største site for gravide og småbørnsforældre
   description: | # this will include new lines to allow paragraphs
-    Som den primære udvikler, har jeg lavet alt fra vedligeholdelse af servere og infrastruktur til software udvikling.
+    Min-Mave var tæt knyttet med Amino, og da de manglede en udvikler blev jeg også tilknyttet dette site. Som den primære udvikler lavede jeg det meste af programmeringsarbejdet mens jeg var tilknyttet siden. Udover programmering har jeg bl.a. stået for migrering af kodebasen fra Mercurial til GIT, samt migrering af bare-metal servere til ESXi virtualiserede servere. Jeg har også moderniseret arbejdsgangen ved opsætning af en fuld CI/CD pipeline bestående af TeamCity og Octopus Deploy.
 
     Jeg har arbejdet med de følgende teknologier under dette projekt:  
     <mark>C#</mark> <mark>ASP.NET MVC</mark> <mark>JavaScript</mark> <mark>CSS</mark> <mark>Mercurial</mark> <mark>Git</mark> <mark>MSSQL</mark> <mark>MySQL</mark> <mark>Windows Server</mark> <mark>Ubuntu Server</mark> <mark>IIS</mark> <mark>Apache</mark> <mark>TeamCity</mark>  
     <mark>Octopus Deploy</mark> <mark>Wordpress</mark> <mark>VMware</mark>
-
-    Eksempler på større opgaver jeg har været ansvarlig for:
-    - Migrering af kode fra Mercurial til GIT.
-    - Server migrering fra bare-metal servere til ESXi virtualiserede servere.
-    - Setup af fuld CI/CD pipeline bestående af TeamCity og Octopus Deploy.
 - layout: left
   company: Amino ApS
   link: https://www.amino.dk
@@ -55,15 +50,10 @@
   quote: >
     Mødestedet for mere end 100.000 iværksættere og selvstændige erhvervsdrivende.
   description: | # this will include new lines to allow paragraphs
-    Som den primære udvikler, har jeg lavet alt fra vedligeholdelse af servere og infrastruktur til software udvikling.
+    Som den primære udvikler lavede jeg det meste af programmeringsarbejdet mens jeg var tilknyttet siden. Udover programmering har jeg bl.a. stået for migrering af kodebasen fra SVN til GIT, samt migrering af bare-metal servere til ESXi virtualiserede servere. Jeg har også moderniseret arbejdsgangen ved opsætning af en fuld CI/CD pipeline bestående af TeamCity og Octopus Deploy.
 
     Jeg har arbejdet med de følgende teknologier under dette projekt:  
     <mark>C#</mark> <mark>ASP.NET MVC</mark> <mark>ASP.NET Web Forms</mark> <mark>JavaScript</mark> <mark>CSS</mark> <mark>SVN</mark> <mark>Git</mark> <mark>MSSQL</mark> <mark>MySQL</mark> <mark>Windows Server</mark> <mark>Ubuntu Server</mark> <mark>IIS</mark> <mark>Apache</mark> <mark>TeamCity</mark> <mark>Octopus Deploy</mark> <mark>Wordpress</mark> <mark>VMware</mark>
-
-    Eksempler på større opgaver jeg har været ansvarlig for:
-    - Migrering af kode fra SVN til GIT.
-    - Server migrering fra bare-metal servere til ESXi virtualiserede servere.
-    - Setup af fuld CI/CD pipeline bestående af TeamCity og Octopus Deploy.
 - layout: left
   company: Hi-Fi Klubben A/S
   link: https://www.hifiklubben.dk
@@ -73,13 +63,3 @@
     I HiFi Klubben handler alting om lyd og billede – ikke køleskabe, vaskemaskiner og stavblendere. Hos os får du musik- og filmoplevelser for hver eneste krone
   description: | # this will include new lines to allow paragraphs
     Jeg startede i dette job under mit studie som Datamatiker, men min store passion for elektronik har holdt mig tilknyttet til Hi-Fi Klubben lige siden. Efter jeg færdiggjorde min uddannelsen arbejdede jeg stadig hver weekend i butikken samtidig med et fuldtidsjob som software udvikler. Over årene har jeg skåret ned på tid, men jeg er stadig tilknyttet butikken et par dage om måneden.
-- layout: left
-  company: Callas ApS
-  link: https://www.callas.dk
-  job_title: IT medarbejder
-  dates: 2003 - 2006
-  quote: >
-    Callas hjælper virksomheder med at skabe relationer og langtidsholdbar branding ved brug af reklameartikler, reklamegaver og firmatøj.
-  description: | # this will include new lines to allow paragraphs
-    Mit arbejde bestod generelt af at uploade billeder til hjemmesiden samt billedredigering i <mark>Adobe Photoshop</mark> og  
-    <mark>Adobe Illustrator</mark>.
