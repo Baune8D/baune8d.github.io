@@ -1,7 +1,7 @@
 # Education Template
 - layout: left
   name: Københavns Erhvervs Akademi (KEA)
-  dates: 2010 - 2014
+  dates: 2011 - 2014
   qualification: Datamatiker
   description: | # this will include new lines to allow paragraphs
     Uddannelsen bestod primært af Java og PHP programmering, inklusiv software udviklings metoderne Scrum, XP og UP. Mit eksamens projekt var et custom PHP MVC framework plus en mindre applikation bygget ovenpå.
