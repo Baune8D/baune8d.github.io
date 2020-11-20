@@ -19,9 +19,9 @@
   quote: >
     Stedet hvor sælgere og købere af små og mellemstore virksomheder mødes
   description: | # this will include new lines to allow paragraphs
-    Dette projekt var originalt en underside til Amino, kaldet "Amino Virksomhedsbørs" og skrevet i ASP.NET MVC, projektet blev originalt startet i 2007 af bl.a. Martin Thorborg. I 2016 købte jeg og 2 andre 50% af Amino Virksomhedbørs og startede Saxis, projektet blev sepereret fra Amino og flyttet til sit eget domæne: [www.saxis.dk](https://www.saxis.dk). Idag er der intet tilbage af den originale kodebase, jeg har igennem årene omskrevet hele sitet til en moderne kodebase skrevet primært i ASP.NET Core, og med vægt på SOLID principperne. Udover programmerings arbejde har jeg også været ansvarlig for opsætning og vedligeholdelse af både Windows og Linux servere, samt opsætning af en CI/CD pipeline drevet af AppVeyor og GitHub Actions. Virksomheden vandt en Børsen Gazelle i 2020.
+    Dette projekt var originalt en underside til Amino, kaldet "Amino Virksomhedsbørs" og skrevet i ASP.NET MVC, projektet blev originalt startet i 2007 af bl.a. Martin Thorborg. I 2016 købte jeg og 2 andre 50% af Amino Virksomhedsbørs og startede Saxis, projektet blev separeret fra Amino og flyttet til sit eget domæne: [www.saxis.dk](https://www.saxis.dk). I dag er der intet tilbage af den originale kodebase, jeg har igennem årene omskrevet hele sitet til en moderne kodebase skrevet primært i ASP.NET Core, og med vægt på SOLID principperne. Udover programmerings arbejde har jeg også været ansvarlig for opsætning og vedligeholdelse af både Windows og Linux servere, samt opsætning af en CI/CD pipeline drevet af AppVeyor og GitHub Actions. Virksomheden vandt en Børsen Gazelle i 2020.
     
-    Jeg er fortsat medejer og tilknyttet Saxis som jeg har brugt de sidste mange år på at bygge, men søger noget mere stabilitet grundet familien.
+    Jeg er fortsat medejer og tilknyttet Saxis som jeg har brugt de sidste mange år på at bygge.
 
     Jeg har arbejdet med de følgende teknologier under dette projekt:  
     <mark>C#</mark> <mark>ASP.NET MVC</mark> <mark>ASP.NET Core MVC</mark> <mark>Razor Pages</mark> <mark>JavaScript</mark> <mark>TypeScript</mark> <mark>Webpack</mark> <mark>Vue.js</mark> <mark>SASS</mark> <mark>Git</mark> <mark>MSSQL</mark> <mark>MySQL</mark>  
@@ -58,9 +58,9 @@
 - layout: left
   company: Hi-Fi Klubben A/S
   link: https://www.hifiklubben.dk
-  job_title: Salgs medarbejder
+  job_title: Salgsmedarbejder
   dates: 2010 - nu
   quote: >
     I HiFi Klubben handler alting om lyd og billede – ikke køleskabe, vaskemaskiner og stavblendere. Hos os får du musik- og filmoplevelser for hver eneste krone
   description: | # this will include new lines to allow paragraphs
-    Jeg startede i dette job under mit studie som Datamatiker, men min store passion for elektronik har holdt mig tilknyttet til Hi-Fi Klubben lige siden. Efter jeg færdiggjorde min uddannelsen arbejdede jeg stadig hver weekend i butikken samtidig med et fuldtidsjob som software udvikler. Over årene har jeg skåret ned på tid, men jeg er stadig tilknyttet butikken et par dage om måneden.
+    Jeg startede i dette job under mit studie som Datamatiker, men min store passion for elektronik har holdt mig tilknyttet til Hi-Fi Klubben lige siden. Efter jeg færdiggjorde min uddannelse, arbejdede jeg stadig hver weekend i butikken samtidig med et fuldtidsjob som software udvikler. Over årene har jeg skåret ned på tid, men jeg er stadig tilknyttet butikken et par dage om måneden.

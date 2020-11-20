@@ -13,9 +13,9 @@ email: baunegaard@live.dk
 darkmode: false
 
 # Social links
-twitter_username: Baunegaard
+# twitter_username: Baunegaard
 github_username: Baune8D
-stackoverflow_username: "4418406"
+# stackoverflow_username: "4418406"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
@@ -48,12 +48,14 @@ about_profile_image: images/Morten.png
 about_content: | # this will include new lines to allow paragraphs
   Mit navn er Morten Larsen, og jeg er full stack web udvikler. Jeg bor på Frederiksberg med min kone, datter og hund. Jeg startede da jeg var 14 år gammel med at programmere små konsol programmer i C++. Jeg har hele mit liv været interessert i IT og elektronik, og har i dag gjort programmering til min levevej.
 
-  Som programmør er jeg meget perfektionistisk, jeg elsker at skrive god og velorganiseret kode, og lægger altid mange tanker i designet bag en opgave. Min primære interesse er backend udvikling, og jeg er specielt glad for Domain Driven Design. Da jeg er en person der elsker at rode indenfor alle områder af IT, kan jeg arbejde med det meste. Jeg har i min karrierre bl.a. stået for opsætning og vedligholdelse af både Windows og Linux servere, samt opsætning af flere CI/CD systemer.
+  Jeg er en strategisk tænker, og har via mit engagement og partnerskab i Saxis.dk haft det ultimative ansvar for den samlede IT infrastruktur, udviklere, programmering og beslutningstagning.
+  
+  Som programmør er jeg meget perfektionistisk, jeg elsker at skrive god og velorganiseret kode, og lægger altid mange tanker i designet bag en opgave. Min primære interesse er backend udvikling, og jeg er specielt glad for Domain Driven Design. Jeg er ekstrem alsidig, og har erfaring indenfor alle områder af IT, hvorved jeg kan arbejde med det meste. Jeg har i min karriere bl.a. stået for opsætning og vedligeholdelse af både Windows og Linux servere, samt opsætning af flere CI/CD systemer.
 
   Det jeg værdsætter højt i et job er et godt arbejdsmiljø, og gode muligheder for at udvikle mig professionelt. Jeg søger altid at blive bedre til det jeg laver, og jeg elsker at udforske nye områder.
 
   Jeg beskæftiger mig primært med de følgende teknologier:  
-  <mark>C#</mark> <mark>.NET</mark> <mark>PHP</mark> <mark>JavaScript</mark> <mark>TypeScript</mark> <mark>CSS/SASS</mark> <mark>HTML</mark>
+  <mark>C#</mark> <mark>.NET</mark> <mark>JavaScript</mark> <mark>TypeScript</mark> <mark>CSS/SASS</mark> <mark>HTML</mark>
 
 # Projects Section
 projects_title: Projekter
@@ -67,7 +69,7 @@ education_title: Uddannelse
 # More Section
 more_title: Mere om mig
 more_content: | # this will include new lines to allow paragraphs
-  Udover tid med familien, går det meste af min fritid også med at rode med IT eller elektronik i forskellige afskygninger. I forbindelse med mit arbejde i Hi-Fi Klubben har jeg min egen hjemmebiograf som flittigt bliver brugt når der skal games, eller der skal hygges med en god film. Jeg er en passioneret gamer og har hele mit liv bygget mine egne computere, jeg elsker hardware og at presse det til det yderste, derfor er jeg også en stor overclocking entusiast. Jeg hoster selv en dual Xeon unRAID server derhjemme som jeg bruger som homelab. Serveren fungerer som NAS, og driver alle mine personlige services som fx. DNS, web hosting, mediecenter, diverse spil servere samt diverse virtuelle maskiner til test formål. Min lejlighed har en ret omfattende netværks infrastruktur, bestående af en masse Ubiquiti UniFi netværksudstyr som jeg også bruger en masse tid på at optimere og teste på. Derudover har jeg en Ender-3 Pro 3D printer som jeg hygger mig med at modificere, bl.a. ved at 3D printe nye dele til printeren.
+  Udover tid med familien, går det meste af min fritid også med at rode med IT eller elektronik i forskellige afskygninger. I forbindelse med mit arbejde i Hi-Fi Klubben har jeg min egen hjemmebiograf som flittigt bliver brugt når der skal games, eller der skal hygges med en god film. Jeg er en passioneret gamer og har hele mit liv bygget mine egne computere, jeg elsker hardware og at presse det til det yderste, derfor er jeg også en stor overclocking entusiast. Jeg er meget eksperimental med alt hvad jeg laver og elsker at teste løsninger i min fritid, både for sjov, men også for at være på forkant med industrien. Jeg hoster selv en dual Xeon unRAID server derhjemme som jeg bruger som homelab. Serveren fungerer som NAS, og driver alle mine personlige services som fx. DNS, web hosting, mediecenter, diverse spil servere samt flere virtuelle maskiner til diverse test formål. Min lejlighed har en ret omfattende netværksinfrastruktur, bestående af en masse Ubiquiti UniFi netværksudstyr som jeg også bruger en masse tid på at optimere og teste på. Derudover har jeg en Ender-3 Pro 3D printer som jeg hygger mig med at modificere, bl.a. ved at 3D printe nye dele til printeren.
 
 # Footer
 references_title: Referencer på anmodning
