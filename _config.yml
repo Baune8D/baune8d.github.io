@@ -46,11 +46,11 @@ additional_links:
 about_title: Om mig
 about_profile_image: images/Morten.png
 about_content: | # this will include new lines to allow paragraphs
-  Mit navn er Morten Larsen, og jeg er full stack web udvikler . Jeg bor på Frederiksberg med min kone, datter og hund. Jeg startede med at programmere da jeg var 14 år gammel, med små konsol programmer skrevet i C++. Jeg har hele mit liv været interresert i IT og elektronik, og har idag gjort programmering til min levevej.
+  Mit navn er Morten Larsen, og jeg er full stack web udvikler. Jeg bor på Frederiksberg med min kone, datter og hund. Jeg startede da jeg var 14 år gammel med at programmere små konsol programmer i C++. Jeg har hele mit liv været interresert i IT og elektronik, og har idag gjort programmering til min levevej.
 
-  Som programmør er jeg meget perfektionistisk, jeg elsker at skrive god kode og velorganiseret kode, og lægger altid mange tanker i designet bag en opgave. Min primære interesse er backend udvikling og jeg er specielt glad for Domain Driven Design. Da jeg er en person der elsker at rode indenfor alle områder af IT kan jeg arbejde med det meste, jeg har i min karrierre bl.a. stået for opsætning og vedligholdelse af både Windows og Linux servere samt opsætning af flere CI/CD systemer.
+  Som programmør er jeg meget perfektionistisk, jeg elsker at skrive god og velorganiseret kode, og lægger altid mange tanker i designet bag en opgave. Min primære interesse er backend udvikling, og jeg er specielt glad for Domain Driven Design. Da jeg er en person der elsker at rode indenfor alle områder af IT, kan jeg arbejde med det meste. Jeg har i min karrierre bl.a. stået for opsætning og vedligholdelse af både Windows og Linux servere, samt opsætning af flere CI/CD systemer.
 
-  Det jeg værdsætter højt i et job er et godt arbejdsmiljø og gode muligheder for at udvikle mig professionelt. Jeg søger altid at blive bedre til det jeg laver, og jeg elsker at udforske nye områder.
+  Det jeg værdsætter højt i et job er et godt arbejdsmiljø, og gode muligheder for at udvikle mig professionelt. Jeg søger altid at blive bedre til det jeg laver, og jeg elsker at udforske nye områder.
 
   Jeg beskæftiger mig primært med de følgende teknologier:  
   <mark>C#</mark> <mark>.NET</mark> <mark>PHP</mark> <mark>JavaScript</mark> <mark>TypeScript</mark> <mark>CSS/SASS</mark> <mark>HTML</mark>
@@ -67,7 +67,7 @@ education_title: Uddannelse
 # More Section
 more_title: Mere om mig
 more_content: | # this will include new lines to allow paragraphs
-  Udover tid med familien, går det meste af min fritid også med at rode med IT eller elektronik i forskellige afskygninger. Jeg er en passioneret gamer og har hele mit liv bygget mine egne computere, jeg elsker hardware og at presse det til det yderste, derfor er jeg også en stor overclocking entusiast. Jeg hoster selv en dual Xeon unRAID server derhjemme som jeg bruger som homelab. Serveren fungerer som NAS, og driver alle mine personlige services som fx. DNS, web hosting, mediecenter, diverse spil servere samt diverse virtuelle maskiner til test formål. Min lejlighed har en ret omfattende netværks infrastruktur, bestående af en masse Ubiquiti UniFi netværksudstyr som jeg også bruger en masse tid på at optimere og teste på. Derudover har jeg en Ender-3 Pro 3D printer som jeg hygger mig med at modificere, bl.a. ved at 3D printe nye dele til printeren.
+  Udover tid med familien, går det meste af min fritid også med at rode med IT eller elektronik i forskellige afskygninger. I forbindelse med mit arbejde i Hi-Fi Klubben har jeg min egen hjemmebiograf som flittigt bliver brugt når der skal games, eller der skal hygges med en god film. Jeg er en passioneret gamer og har hele mit liv bygget mine egne computere, jeg elsker hardware og at presse det til det yderste, derfor er jeg også en stor overclocking entusiast. Jeg hoster selv en dual Xeon unRAID server derhjemme som jeg bruger som homelab. Serveren fungerer som NAS, og driver alle mine personlige services som fx. DNS, web hosting, mediecenter, diverse spil servere samt diverse virtuelle maskiner til test formål. Min lejlighed har en ret omfattende netværks infrastruktur, bestående af en masse Ubiquiti UniFi netværksudstyr som jeg også bruger en masse tid på at optimere og teste på. Derudover har jeg en Ender-3 Pro 3D printer som jeg hygger mig med at modificere, bl.a. ved at 3D printe nye dele til printeren.
 
 # Footer
 references_title: Referencer på anmodning

@@ -4,7 +4,9 @@
   dates: 2010 - 2014
   qualification: Datamatiker
   description: | # this will include new lines to allow paragraphs
-    Uddannelsen bestod primært af Java og PHP programmering, inklusiv diverse software udviklings metoder som fx. Scrum. Mit eksamens projekt var et custom PHP MVC framework plus en mindre applikation bygget ovenpå.
+    Uddannelsen bestod primært af Java og PHP programmering, inklusiv software udviklings metoderne Scrum, XP og UP. Mit eksamens projekt var et custom PHP MVC framework plus en mindre applikation bygget ovenpå.
+
+    Jeg valgte efter skolen ikke at fortsætte på bacheloren, da jeg altid har været meget drevet af learning-by-doing princippet. Jeg ville hellere ud og have fingrene i maskinen på nogle konkrete udviklingsprojekter.
 
     Flere af mine skole projekter fra dengang, kan findes på min GitHub profil (link i toppen af siden).
 - layout: left
