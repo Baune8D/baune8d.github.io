@@ -38,7 +38,7 @@
   quote: >
     Danmarks største site for gravide og småbørnsforældre
   description: | # this will include new lines to allow paragraphs
-    Min-Mave var tæt knyttet med Amino, og da de manglede en udvikler blev jeg også tilknyttet dette site. Som den primære udvikler lavede jeg det meste af programmeringsarbejdet mens jeg var tilknyttet siden. Udover programmering har jeg bl.a. stået for migrering af kodebasen fra Mercurial til GIT, samt migrering af bare-metal servere til ESXi virtualiserede servere. Jeg har også moderniseret arbejdsgangen ved opsætning af en fuld CI/CD pipeline bestående af TeamCity og Octopus Deploy.
+    Min-Mave var tæt knyttet med Amino, så jeg blev også tilknyttet dette site. Som den primære udvikler, stod jeg for det meste af programmeringsarbejdet, i samarbejde med et Phillipinsk udviklingshold. Udover programmering har jeg bl.a. også stået for migrering af kodebasen fra Mercurial til GIT.
 
     Reference kan sendes på anmodning.
 
@@ -53,7 +53,7 @@
   quote: >
     Mødestedet for mere end 100.000 iværksættere og selvstændige erhvervsdrivende.
   description: | # this will include new lines to allow paragraphs
-    Amino var mit første job efter datamatikeruddannelsen. Inden jeg stoppede i 2016 for at arbejde med Saxis, var jeg chefudvikler på projektet med det overordnede ansvar for alle udviklingsopgaver samt drift af servere. Udover programmering har jeg bl.a. stået for migrering af kodebasen fra SVN til GIT, samt migrering af bare-metal servere til ESXi virtualiserede servere. Jeg har også moderniseret arbejdsgangen ved opsætning af en fuld CI/CD pipeline bestående af TeamCity og Octopus Deploy.
+    Amino var mit første job efter datamatikeruddannelsen. Inden jeg stoppede som fuldtid på sitet i 2016 for at arbejde med Saxis, var jeg chefudvikler på projektet med det overordnede ansvar for alle udviklingsopgaver, samt drift af servere og infrastruktur. Udover programmering har jeg bl.a. stået for migrering af kodebasen fra SVN til GIT, samt migrering af bare-metal servere til ESXi virtualiserede servere. Jeg har også moderniseret arbejdsgangen ved opsætning af en fuld CI/CD pipeline bestående af TeamCity og Octopus Deploy.
 
     Reference kan sendes på anmodning.
 
@@ -67,4 +67,4 @@
   quote: >
     I HiFi Klubben handler alting om lyd og billede – ikke køleskabe, vaskemaskiner og stavblendere. Hos os får du musik- og filmoplevelser for hver eneste krone
   description: | # this will include new lines to allow paragraphs
-    Jeg startede i dette job under mit studie som Datamatiker, men min store passion for elektronik har holdt mig tilknyttet til Hi-Fi Klubben lige siden. Efter jeg færdiggjorde min uddannelse, arbejdede jeg stadig hver weekend i butikken samtidig med et fuldtidsjob som software udvikler. Over årene har jeg skåret ned på tid, men jeg er stadig tilknyttet butikken et par dage om måneden.
+    Jeg startede i dette job under mit studie som Datamatiker, men min store passion for elektronik har holdt mig tilknyttet til Hi-Fi Klubben lige siden. Efter jeg færdiggjorde min uddannelse, arbejdede jeg stadig hver weekend i butikken samtidig med et fuldtidsjob som softwareudvikler. Over årene har jeg skåret ned på tid, men jeg er stadig tilknyttet butikken et par dage om måneden.
