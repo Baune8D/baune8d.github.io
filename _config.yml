@@ -1,6 +1,6 @@
 # Site
 repository: Baune8D/baune8d.github.io
-# favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
+favicon: images/favicon.ico
 
 # Content configuration version
 version: 2
