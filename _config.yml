@@ -2,14 +2,14 @@
 repository: Baune8D/baune8d.github.io
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
+# Content configuration version
+version: 2
+
 # Personal info
 name: Morten Baunegaard Larsen
 title: Softwareudvikler
 email: baunegaard@live.dk
-# phone: Your phone number (optional)
 # website: Your website (eg. https://google.com)(optional)
-
-locale: da_DK
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -74,12 +74,11 @@ more_content: | # this will include new lines to allow paragraphs
   Jeg bor på Frederiksberg med min kone, datter og hund. Udover tid med familien, går det meste af min fritid også med at rode med IT eller elektronik i forskellige afskygninger. I forbindelse med mit arbejde i Hi-Fi Klubben har jeg min egen hjemmebiograf som flittigt bliver brugt når der skal games, eller der skal hygges med en god film. Jeg er en passioneret gamer og har hele mit liv bygget mine egne computere, jeg elsker hardware og at presse det til det yderste, derfor er jeg også en stor overclocking entusiast. Jeg er meget eksperimental med alt hvad jeg laver og elsker at teste løsninger i min fritid, både for sjov, men også for at være på forkant med industrien. Jeg hoster selv en dual Xeon unRAID server derhjemme som jeg bruger som homelab. Serveren fungerer som NAS, og driver alle mine personlige services som fx. DNS, webhosting, mediecenter, diverse spil servere samt flere virtuelle maskiner til diverse test formål. Min lejlighed har en ret omfattende netværksinfrastruktur, bestående af en masse Ubiquiti UniFi netværksudstyr som jeg også bruger en masse tid på at optimere og teste på. Derudover har jeg en Ender-3 Pro 3D printer som jeg hygger mig med at modificere, bl.a. ved at 3D printe nye dele til printeren.
 
 # Footer
-references_title: Referencer på anmodning
 footer_show_references: true
+references_title: Referencer på anmodning
 
 # Build settings
-# theme: modern-resume-theme
-remote_theme: Baune8D/modern-resume-theme
+remote_theme: sproogen/resume-theme
 
 sass:
   sass_dir: _sass
@@ -100,3 +99,5 @@ exclude : [
   "scripts/",
   "docker-compose.yml",
 ]
+
+locale: da_DK
