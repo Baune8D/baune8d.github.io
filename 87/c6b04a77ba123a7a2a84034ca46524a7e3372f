@@ -1,0 +1,23 @@
+Gemfile
+  s_1da20591e67452::t_74f7da20c2d3b2 3,5-8,10-11
+Gemfile.lock
+  s_1da20591e67452::t_98bb50b0d31ebd 4,7-8,13-14,16-17,19,22,33-34,37-39,42,46-47,51-52,57,60-62,64-66,73,80-83,87
+_config.yml
+  s_1da20591e67452::t_55bb4912cd2dcf 3-5
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "87c6b04a77ba123a7a2a84034ca46524a7e3372f",
+  "prompts": {},
+  "sessions": {
+    "s_1da20591e67452": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "56de8afb-cd13-4b9c-b07e-fc995dbca6f0",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Morten Larsen <mortenl41@gmail.com>"
+    }
+  }
+}
