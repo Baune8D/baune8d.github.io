@@ -26,3 +26,4 @@ Personal resumé site at https://baunegaard.net, in Danish. A Jekyll site with t
 ## Content
 
 - The project list mirrors the repositories: their GitHub descriptions as the quote, and the README badges. Update it when a repository is renamed or its description or badges change.
+- The profile README (Baune8D/Baune8D) has a project list too; keep both in step.
