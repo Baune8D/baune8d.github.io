@@ -1,5 +1,8 @@
 # Site
 repository: Baune8D/baune8d.github.io
+# Set by GitHub for the legacy Pages build; used by jekyll-seo-tag
+url: https://baunegaard.net
+description: My resumé
 favicon: images/favicon.ico
 
 # Content configuration version
